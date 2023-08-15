@@ -26,13 +26,15 @@ makes YOLO very fast, and it can detect objects at speeds of up to 45 frames per
 ## Testing Images Output with YOLO 8
 ![download](https://github.com/esarvesh11/Industrial-Smoke-Detection-using-YOLO-Algorithm-Computer-Vision/assets/102407237/1364c042-4a5c-471e-84fa-20273b6ff7b2)
 
-## Smoke Colour Detection % Intensity Using YOLO V8 Algorithm
+## Smoke Colour Detection Intensity Using YOLO V8 Algorithm
+
 ![Screenshot 2023-08-15 162040](https://github.com/esarvesh11/Industrial-Smoke-Detection-using-YOLO-Algorithm-Computer-Vision/assets/102407237/1b251db5-2d0b-49d0-aa93-c32745702407)
 
 * Intensity (White Smoke Image): 0.2228
 * Intensity (Black Smoke Image): 0.6337
 
 ## Identifying Coordinate with Maximum Intensity
+
 ![Screenshot 2023-08-15 162622](https://github.com/esarvesh11/Industrial-Smoke-Detection-using-YOLO-Algorithm-Computer-Vision/assets/102407237/25a64f1a-8f62-4576-9700-2abe210fd9e5)
 
 * Coordinates of the pixel with maximum intensity: Row:189 
